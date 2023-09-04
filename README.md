@@ -18,3 +18,7 @@ Creating a DW from zero to hero. Starting with logical and physical modeling to 
 - [x] Docker
 - [x] Airbyte
 - [x] Metabase
+
+| Architecture Diagram |
+|:--:|
+<img src="/Architecture Diagram.png">
