@@ -20,6 +20,6 @@ Creating a DW from zero to hero. Starting with logical and physical modeling to 
 
 ## Architecture Diagram:
 
-<img src="">
+<img src="/Architecture Diagram.png">
 
 I made this diagram using [Diagrams.net](https://app.diagrams.net/)
