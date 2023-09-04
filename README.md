@@ -13,7 +13,6 @@ Creating a DW from zero to hero. Starting with logical and physical modeling to 
 
 ## Developed Skills:
 - [x] PostgreSQL
-- [x] Python
 - [x] PgAdmin
 - [x] Docker
 - [x] Airbyte
